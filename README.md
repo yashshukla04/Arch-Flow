@@ -118,7 +118,7 @@ If AI fails or is restricted, deterministic logic ensures system stability.
 - Monorepo-aware visualization
 - Advanced clustering and grouping
 - Persistent graph storage
-- Team collaboration features
+- Team collaboration features.
 
 ---
 
